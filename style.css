@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background: red;
+  color: #fff;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 4rem;
+  align-items: center;
+}
+
+ul.menu {
+}
